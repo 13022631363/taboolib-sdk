@@ -8,4 +8,8 @@ object ExamplePlugin : Plugin() {
     override fun onEnable() {
         info("Successfully running ExamplePlugin!")
     }
+
+    override fun onDisable() {
+        
+    }
 }

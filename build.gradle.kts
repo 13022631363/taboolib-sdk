@@ -12,6 +12,7 @@ taboolib {
 }
 
 repositories {
+    mavenLocal ()
     mavenCentral()
 }
 
